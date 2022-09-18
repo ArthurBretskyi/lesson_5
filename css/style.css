@@ -1,0 +1,150 @@
+body {
+  font-family: "Padauk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.article-title {
+  font-family: "Butcherman", cursive;
+  font-size: 100px;
+  text-align: center;
+  letter-spacing: 14px;
+  color: rgb(66, 52, 52);
+  margin: 20px 0 20px;
+}
+.title-img {
+  margin: 20px 0 40px 520px;
+}
+
+.history-subtitle {
+  font-family: "Larsseit", sans-serif;
+  font-size: 26px;
+  text-align: center;
+  padding: 30px;
+  letter-spacing: 5px;
+  color: dimgray;
+  text-shadow: 1px 1px 3px rgb(100, 100, 100);
+}
+.about {
+  font-family: "Comforter", cursive;
+  font-size: 36px;
+  color: rgb(72, 73, 75);
+  margin: 5px 20px 5px;
+}
+.about-text + p {
+  font-family: "NanumGothic", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: blueviolet;
+  padding: 20px 50px;
+}
+
+.article-list-item {
+  font-family: "NanumGothic", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: rgb(12, 12, 194);
+  text-decoration: underline;
+  margin-left: 50px;
+  padding-bottom: 10px;
+}
+.history-sublist > li {
+  font-family: "Larsseit", sans-serif;
+  font-size: 18px;
+  line-height: 1.8;
+  color: blue;
+  text-decoration: underline;
+  margin-left: 70px;
+}
+.early-years > img {
+  margin: 10px 0 30px 750px;
+}
+h2 {
+  font-family: "Butcherman", cursive;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 14px;
+  color: rgb(66, 52, 52);
+  margin: 10px 0 10px;
+}
+
+.ride-the-lightning > img {
+  margin: 10px 0 30px 100px;
+}
+
+.newsted-joins > img {
+  margin: 10px 0 30px 750px;
+}
+.load > img {
+  margin: 10px 0 30px 100px;
+}
+.st-anger > img {
+  margin: 10px 0 30px 750px;
+}
+.death-magnetic > img {
+  margin: 10px 0 30px 100px;
+}
+.hardwired > img {
+  margin: 10px 0 30px 750px;
+}
+
+.history-block p {
+  font-size: 18px;
+  margin: 20px 50px;
+  text-indent: 30px;
+}
+
+.current-members,
+.members-list {
+  margin-left: 500px;
+}
+.former-members,
+.former-members-list {
+  margin-left: 900px;
+}
+h4 {
+  font-family: "NanumGothic", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: blueviolet;
+  padding: 20px 0 10px;
+}
+.bend-members a {
+  font-family: "Comforter", cursive;
+  color: blue;
+  text-decoration: underline;
+}
+.discography-list {
+  font-family: "Larsseit", sans-serif;
+  font-size: 24px;
+  line-height: 1.2;
+  letter-spacing: 2px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.discography-list a {
+  color: red;
+  text-decoration: underline;
+}
+.external-links li {
+  margin-left: 40px;
+  font-family: "Comforter", cursive;
+  color: blue;
+  text-decoration: underline;
+  padding: 5px 0 5px;
+}
+.up {
+  font-family: "Butcherman", cursive;
+  font-size: 40px;
+  letter-spacing: 14px;
+  word-spacing: 20px;
+  color: rgb(66, 52, 52);
+  margin-left: 700px;
+}
+.up span {
+  font-size: 80px;
+  color: red;
+}
